@@ -15,6 +15,6 @@ Input string = 231340218
 
 Equivalent input string in a 9-tile format (below):
 
-231
-340
+231 
+340 
 218
